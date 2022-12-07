@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Typescript, React** even **CSS**
 
-- 📫 How to reach me on Discord: **Caniuss#9384**
+- 📫 Reach me on Discord: **Caniuss#9384**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
