@@ -1,8 +1,8 @@
 <h1 align="center">Hello I'm Caniuss</h1>
 
-- 🔭 I’m currently working on **3rd year School Project**
+- 🔭 I’m currently working on **Bussiness** 🤑
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Bussiness** 💵
 
 - 💬 Ask me about **Typescript, React** even **CSS**
 
