@@ -1,12 +1,5 @@
 <h1 align="center">Hello I'm Caniuss</h1>
 
-- 🔭 I’m currently working on **Bussiness** 🤑
-
-- 🌱 I’m currently learning **Bussiness** 💵
-
-- 💬 Ask me about **Typescript, React** even **CSS**
-
-- 📫 Reach me on Discord: **Caniuss#9384**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
